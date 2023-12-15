@@ -1,0 +1,17 @@
+{
+   "users": [
+     {
+       "id": 1,
+       "username": "bruger1",
+       "password": "adgangskode1",
+       "events": [1]
+     },
+     {
+       "id": 2,
+       "username": "bruger2",
+       "password": "adgangskode2",
+       "events": [1]
+     }
+   ]
+ }
+ 

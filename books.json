@@ -1,0 +1,130 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "date": "1960-07-11",
+      "location": "Unknown",
+      "image": "https://i.pinimg.com/originals/42/4c/27/424c275b107a625ccfd2ca5afae83762.png",
+      "description": "To Kill a Mockingbird er en roman af Harper Lee, der udforsker raceforhold og retfærdighed i 1930'ernes Alabama gennem Scout Finchs øjne.",
+      "events": [
+        {
+          "eventName": "Book Launch",
+          "eventDate": "1960-07-15",
+          "eventLocation": "Local Bookstore",
+          "eventDescription": "Join us for the launch of 'To Kill a Mockingbird' at the local bookstore."
+        },
+        {
+          "eventName": "Author Talk",
+          "Date": "1960-07-20",
+          "Location": "Community Center",
+          "Description": "Harper Lee will discuss her novel at the community center. Don't miss it!"
+        }
+      ]
+    },
+    {
+      "title": "1984",
+      "date": "1949-06-08",
+      "location": "Unknown",
+      "image": "https://m.media-amazon.com/images/I/41nGXlJ2GSL.jpg",
+      "description": "A dystopian novel by George Orwell.",
+      "events": [
+        {
+          "eventName": "Dystopian Fiction Panel",
+          "eventDate": "1949-06-12",
+          "eventLocation": "City Library",
+          "eventDescription": "Join the panel discussion on dystopian fiction featuring George Orwell's '1984'."
+        }
+      ]
+    },
+    {
+      "title": "The Great Gatsby",
+      "date": "1925-04-10",
+      "location": "Unknown",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "description": "A classic novel by F. Scott Fitzgerald.",
+      "events": [
+        {
+          "eventName": "Roaring Twenties Party",
+          "eventDate": "1925-04-15",
+          "eventLocation": "Gatsby Mansion",
+          "eventDescription": "Step back in time and join us for a Roaring Twenties-themed party at Gatsby Mansion."
+        }
+      ]
+    },
+    {
+      "title": "Pride and Prejudice",
+      "date": "1813-01-28",
+      "location": "Unknown",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+      "description": "A classic novel by Jane Austen.",
+      "events": [
+        {
+          "eventName": "Regency Ball",
+          "eventDate": "1813-02-01",
+          "eventLocation": "Netherfield Park",
+          "eventDescription": "Dance the night away at the elegant Regency Ball in celebration of 'Pride and Prejudice'."
+        }
+      ]
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "date": "1951-07-16",
+      "location": "Unknown",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+      "description": "A novel by J.D. Salinger.",
+      "events": [
+        {
+          "eventName": "Holden's Journey Discussion",
+          "eventDate": "1951-07-20",
+          "eventLocation": "Café Society",
+          "eventDescription": "Join us at Café Society to discuss Holden Caulfield's journey in 'The Catcher in the Rye'."
+        }
+      ]
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "date": "1967-05-30",
+      "location": "Unknown",
+      "image": "https://cdn.kobo.com/book-images/c6d8cbbb-17b8-4c29-bc39-ec9c2c8e3df2/1200/1200/False/one-hundred-years-of-solitude-3.jpg",
+      "description": "A landmark novel by Gabriel García Márquez.",
+      "events": [
+        {
+          "eventName": "Magical Realism Symposium",
+          "eventDate": "1967-06-03",
+          "eventLocation": "Macondo",
+          "eventDescription": "Explore the world of magical realism in 'One Hundred Years of Solitude' at the symposium in Macondo."
+        }
+      ]
+    },
+    {
+      "title": "The Lord of the Rings",
+      "date": "1954-07-29",
+      "location": "Unknown",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+      "description": "A high fantasy novel by J.R.R. Tolkien.",
+      "events": [
+        {
+          "eventName": "Middle-earth Quest",
+          "eventDate": "1954-08-03",
+          "eventLocation": "Rivendell",
+          "eventDescription": "Embark on a quest through Middle-earth in celebration of 'The Lord of the Rings'."
+        }
+      ]
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "date": "1979-10-12",
+      "location": "Unknown",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
+      "description": "A comedic science fiction series by Douglas Adams.",
+      "events": [
+        {
+          "eventName": "Galactic Comedy Show",
+          "eventDate": "1979-10-15",
+          "eventLocation": "Milliways",
+          "eventDescription": "Laugh your way through the galaxy at the Galactic Comedy Show inspired by 'The Hitchhiker's Guide to the Galaxy'."
+        }
+      ]
+    }
+  ]
+}

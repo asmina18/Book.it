@@ -1,0 +1,15 @@
+.navStyle{
+    width: 100%;
+    display: grid;
+    justify-items: end;
+    align-items: center;
+    height: 5vh;
+    background-color:#4e0b0b;
+    
+    div {
+        width: 30%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        align-items: end;
+    }
+}
